@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="104aa4a8-85d6-4098-aadb-80abf2ef7c72" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_footer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/_global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_global.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/common/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/common/_nav.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/sections/_section-with-phone.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/sections/_section-with-phone.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685091833859</updated>
-      <workItem from="1685091839827" duration="44890000" />
+      <workItem from="1685091839827" duration="46719000" />
     </task>
     <servers />
   </component>

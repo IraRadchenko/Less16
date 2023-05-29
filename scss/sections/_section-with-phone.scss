@@ -87,28 +87,28 @@
       height: 75px;
     }
      &:nth-child(2) &__body:before {
-        background: url("../../img/massenger.svg") left no-repeat;
+        background: url("../img/massenger.svg") left no-repeat;
       }
      &:nth-child(3) &__body:before {
-        background: url("../../img/services.svg") left no-repeat;
+        background: url("../img/services.svg") left no-repeat;
      }
       &:nth-child(4) &__body:before {
-      background: url("../../img/text-block.svg") left no-repeat;
+      background: url("../img/text-block.svg") left no-repeat;
     }
     &:nth-child(5) &__body:before {
-      background: url("../../img/map.svg") left no-repeat;
+      background: url("../img/map.svg") left no-repeat;
     }
       &:nth-child(6) &__body:before {
-        background: url("../../img/design.svg") left no-repeat;
+        background: url("../img/design.svg") left no-repeat;
     }
     &:nth-child(7) &__body:before {
-        background: url("../../img/buttons.svg") left no-repeat;
+        background: url("../img/buttons.svg") left no-repeat;
     }
     &:nth-child(8) &__body:before {
-        background: url("../../img/reviews.svg") left no-repeat;
+        background: url("../img/reviews.svg") left no-repeat;
     }
     &:nth-child(9) &__body:before {
-        background: url("../../img/video.svg") left no-repeat;
+        background: url("../img/video.svg") left no-repeat;
     }
     &:nth-child(2n+2) {
       display: flex;
@@ -145,6 +145,7 @@
 
   /*1400*/
   @media screen and (min-width: 1400px) {
+    gap: 83px;
       &__title {
       font-weight: 700;
       font-size: 64px;
