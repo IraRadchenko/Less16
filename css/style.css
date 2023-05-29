@@ -757,7 +757,7 @@ img {
     width: 965px;
     height: 510px;
     z-index: 0;
-    bottom: 0%;
+    bottom: 0;
     transform: skewY(-25deg) rotate(360deg);
     /*clip-path: polygon(0 50%, 100% 0, 100% 50%, 0% 100%);*/
     background: linear-gradient(71.15deg, rgba(220, 236, 254, 0.7) -4.61%, rgba(239, 247, 255, 0.7) 96.78%);
