@@ -27,18 +27,32 @@
     margin-top: 35px;
     margin-bottom: 15px;
   }
+  &__logo{
+    fill: #CBDFE6;
+  }
+/*900*/
   @media screen and (min-width: 890px){
     display: flex;
     flex-direction: row-reverse;
-    justify-content: space-between;
-  align-items: center;
+    align-items: center;
+    padding-top:55px;
+    padding-bottom: 55px;
 
     &__list{
       display: flex;
       flex-direction: row;
+      margin-left: auto;
+    }
+    &__logo{
+      margin-right: 15px;
     }
     &__privacy{
       margin: 0;
     }
+  }
+  /*1400*/
+  @media screen and (min-width: 1400px){
+    padding-right: 225px;
+    padding-left: 225px;
   }
 }
