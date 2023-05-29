@@ -627,6 +627,7 @@ img {
   padding-top: 20px;
   padding-bottom: 60px;
   /*900px*/
+  /*1250*/
   /*1400*/
 }
 .section-with-phone:first-child:before {
@@ -806,6 +807,14 @@ img {
     z-index: 1;
   }
 }
+@media screen and (min-width: 1250px) {
+  .section-with-phone:nth-child(2n+2):after {
+    left: -45%;
+  }
+  .section-with-phone:nth-child(2n+3):after {
+    left: 63%;
+  }
+}
 @media screen and (min-width: 1400px) {
   .section-with-phone {
     gap: 83px;
@@ -813,12 +822,9 @@ img {
   .section-with-phone:nth-child(2n+2):after {
     left: -35%;
     box-shadow: -220px 100px 2px 1px #E0EEFD;
-    /*clip-path: polygon(0 50%, 100% 0, 100% 50%, 0% 100%);*/
   }
   .section-with-phone:nth-child(2n+3):after {
-    left: 63%;
     box-shadow: 280px 100px 2px 1px #E0EEFD;
-    /*clip-path: polygon(0 50%, 100% 0, 100% 50%, 0% 100%);*/
   }
   .section-with-phone__title {
     font-weight: 700;
